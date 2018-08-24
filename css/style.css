@@ -1,0 +1,67 @@
+.top-bar{
+    list-style: none;
+    background-color: #f5f5f5
+}
+.top-bar ul{
+    padding: 0;
+    margin: 0;
+}
+.top-bar li{
+    display: inline;
+    padding: 15px 10px;
+}
+.top-bar a{
+    text-decoration: none;
+    color: #c2c2c2;
+}
+.top-bar-inner{
+    text-align: right;
+}
+.venedor{
+    list-style: none;
+}
+.venedor ul{
+    padding: 0;
+}
+.venedor li{
+    display: inline;
+    padding: 10px 15px
+}
+.venedor-inner ul{
+    text-align: right; 
+    margin-top: 25px;
+}
+.venedor-inner ul li{
+    background-color: #e6e6e6;
+    padding: 10px 15px;
+}
+.venedor-inner ul li:hover{
+    background-color: #14c0c9;
+    cursor: pointer;
+}
+.venedor form{
+    text-align: right;
+}
+.venedor a{
+    text-decoration: none;
+    color: #444540
+}
+.main-nav a:hover {
+    color:#14c0c9;
+}
+.sale{
+    margin-top: 30px;
+}
+.fashionnews{
+    background-color:#d4d4d4
+}
+.information{
+    list-style: none;
+    background-color: #424a4a;
+}
+.information li{
+    padding: 10px 5px
+}
+.information a{
+    text-decoration: none;
+}
