@@ -55,6 +55,11 @@
 .fashionnews{
     background-color:#d4d4d4
 }
+.fashionnews-inner{
+    text-align: right;
+    margin-top: 5px;
+    background-color: #d4d4d4;
+}
 .information{
     list-style: none;
     background-color: #424a4a;
