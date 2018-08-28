@@ -64,9 +64,19 @@
     padding: 10px 15px;
     border-radius: 5px;
     text-decoration: none;
+    margin-left: 70px;
+}
+.bracelet h4{
+    text-align: center;
 }
 .bracelet a:hover{
     background-color:#545a5a;
+}
+.bracelet-inner a{
+    margin-top: 15px;
+}
+.bestsellers{
+    margin-top: 40px;
 }
 .purse{
     margin-bottom: 50px;
@@ -81,6 +91,10 @@
     padding: 10px 15px;
     border-radius: 5px;
     text-decoration: none;
+    margin-left: 70px;
+}
+.purse h4{
+    text-align: center;
 }
 .purse a:hover{
     background-color:#545a5a;
